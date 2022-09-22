@@ -35,8 +35,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy.gif
-"  style="width:100% align:left" />
+<img src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy.gif" style="width:100%" />
 
 </td></tr></table>
 
