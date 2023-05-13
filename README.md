@@ -32,7 +32,7 @@
 - [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3177dtsjm5kepyvuyq7ltyeolaxy&cover_image=true&theme=novatorem&bar_color=fef486&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </td><td valign="top" width="50%">
- <img src="./ethereum.gif" width="100%" />
+ <img src="./ethereum.gif" width="100%" min-width="100px" />
 </td></tr></table>
 
 <br/>
