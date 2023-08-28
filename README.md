@@ -15,11 +15,17 @@
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://camo.githubusercontent.com/ba1e85d8e39b80f98a9dc0e3a8f81558d77ea2c46f97768447ddc3111068c802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d626c61636b)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Solidity](https://camo.githubusercontent.com/ba1e85d8e39b80f98a9dc0e3a8f81558d77ea2c46f97768447ddc3111068c802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d626c61636b)
+![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 [![Hardhat](https://img.shields.io/badge/Hardhat-FAD000?style=for-the-badge&labelColor=000000)](https://hardhat.org)
 [![Ethers.js](https://img.shields.io/badge/ethers.js-%23338BAC.svg?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/ethers-io/ethers.js)
 
