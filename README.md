@@ -38,4 +38,10 @@
 ## <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4dc.png" width=20 height=20> My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Ethereum Securely: Exploring the Innovation of Optimistic Rollups and Fraud Proofs](https://emreaslan.hashnode.dev/scaling-ethereum-securely-exploring-the-innovation-of-optimistic-rollups-and-fraud-proofs)
+- [Double Spending Problem But Through The Eyes of  Satoshi and Vitalik](https://emreaslan.hashnode.dev/double-spending-problem-but-through-the-eyes-of-satoshi-and-vitalik)
+- [A Deep Dive into the Digital Signatures, Encryption, and Hash Function](https://emreaslan.hashnode.dev/a-deep-dive-into-the-digital-signatures-encryption-and-hash-function)
+- [What are Rentables NFTs? 
+Sample Smart Contract With EIP-4907](https://emreaslan.hashnode.dev/what-are-rentables-nfts-eip-4907)
+- [What are Soulbound Tokens &lpar;SBT&rpar;?](https://emreaslan.hashnode.dev/what-are-soulbound-tokens-sbt)
 <!-- BLOG-POST-LIST:END -->
