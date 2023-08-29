@@ -19,14 +19,16 @@ async function updateTweet() {
  console.log("Consumer Secret:", process.env.TWITTER_API_SECRET);
  console.log("Access Token Key:", process.env.TWITTER_ACCESS_TOKEN_KEY);
  console.log("Access Token Secret:", process.env.TWITTER_ACCESS_TOKEN_SECRET);
- const userTweet = await client.get(
-  `users/show.json?user_id=1491506470948683777`
- );
 
- console.log(userTweet);
- const userTweetId = userTweet.status.id_str;
- const lastTweet = `https://twitter.com/blockenddev/status/${userTweetId}`;
  try {
+  console.log("Client", client);
+  const userTweet = await client.get(
+   `users/show.json?user_id=1491506470948683777`
+  );
+
+  console.log(userTweet);
+  const userTweetId = userTweet.status.id_str;
+  const lastTweet = `https://twitter.com/blockenddev/status/${userTweetId}`;
   try {
    const response = await fetch("https://tweetpik.com/api/v2/images", {
     method: "POST",
