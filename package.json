@@ -1,8 +1,11 @@
 {
  "dependencies": {
+  "capture-tweet": "^0.1.0",
   "dotenv": "^16.3.1",
   "glob": "^10.3.3",
+  "screenshot-tweet": "^1.1.1",
   "twitter": "^1.7.1",
+  "twitter-lite": "^1.1.0",
   "yarn": "^1.22.19"
  },
  "scripts": {
