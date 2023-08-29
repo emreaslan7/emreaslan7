@@ -13,11 +13,18 @@ async function updateTweet() {
   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
  });
+
+ console.log("Twitter client created with the following values:");
+ console.log("Consumer Key:", process.env.TWITTER_API_KEY);
+ console.log("Consumer Secret:", process.env.TWITTER_API_SECRET);
+ console.log("Access Token Key:", process.env.TWITTER_ACCESS_TOKEN_KEY);
+ console.log("Access Token Secret:", process.env.TWITTER_ACCESS_TOKEN_SECRET);
  try {
   const userTweet = await client.get(
    `users/show.json?user_id=1491506470948683777`
   );
 
+  console.log(userTweet);
   const userTweetId = userTweet.status.id_str;
   const lastTweet = `https://twitter.com/blockenddev/status/${userTweetId}`;
   try {
