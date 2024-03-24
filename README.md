@@ -48,6 +48,5 @@
 - [Double Spending Problem But Through The Eyes of  Satoshi and Vitalik](https://emreaslan.hashnode.dev/double-spending-problem-but-through-the-eyes-of-satoshi-and-vitalik)
 - [A Deep Dive into the Digital Signatures, Encryption, and Hash Function](https://emreaslan.hashnode.dev/a-deep-dive-into-the-digital-signatures-encryption-and-hash-function)
 - [What are Rentables NFTs? Sample Smart Contract With EIP-4907](https://emreaslan.hashnode.dev/what-are-rentables-nfts-eip-4907)
-- [What are Soulbound Tokens &lpar;SBT&rpar;?](https://emreaslan.hashnode.dev/what-are-soulbound-tokens-sbt)
 <!-- BLOG-POST-LIST:END -->
 
