@@ -15,7 +15,6 @@
 
 ## 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
@@ -35,8 +34,8 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emreaslan7&theme=github_dark)
 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emreaslan7&theme=dark) <a href="https://gitroll.io/profile/u54IZd29QtIcKQ0Wygv5wJLRzEu22" target="_blank"><img height='200px'  src="https://gitroll.io/api/badges/profiles/v1/u54IZd29QtIcKQ0Wygv5wJLRzEu22" alt="GitRoll Profile Badge"/></a>
 <!-- LAST-TWEET:START -->
 <!-- LAST-TWEET:END -->
 
