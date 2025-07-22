@@ -1,8 +1,8 @@
 # 💫 About Me
 
-🔭 I’m currently working on dapps<br>
-🌱 I’m currently learning typescript, solidity, zero knowledge proofs<br>
-💬 Ask me about web3<br>
+🔭 I’m currently working on AI | ML & blockchain<br>
+🌱 I’m currently learning python, tensorflow, typescript, solidity, zero knowledge proofs<br>
+💬 Ask me about ai & web3<br>
 
 ## 🌐 Socials
 
@@ -15,9 +15,11 @@
 
 ## 💻 Tech Stack:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -36,16 +38,9 @@
 
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emreaslan7&theme=dark) <a href="https://gitroll.io/profile/u54IZd29QtIcKQ0Wygv5wJLRzEu22" target="_blank"><img height='200px'  src="https://gitroll.io/api/badges/profiles/v1/u54IZd29QtIcKQ0Wygv5wJLRzEu22" alt="GitRoll Profile Badge"/></a>
-<!-- LAST-TWEET:START -->
-<!-- LAST-TWEET:END -->
 
-## <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4dc.png" width=20 height=20> My Latest Blog Posts
+## 🧑‍💻 LeetCode Stats
 
-<!-- BLOG-POST-LIST:START -->
-- [Upgradeable Smart Contracts in Solidity: A Practical Guide with Hardhat and OpenZeppelin](https://emreaslan.hashnode.dev/upgradeable-smart-contracts-in-solidity-a-practical-guide-with-hardhat-and-openzeppelin)
-- [Scaling Ethereum Securely: Exploring the Innovation of Optimistic Rollups and Fraud Proofs](https://emreaslan.hashnode.dev/scaling-ethereum-securely-exploring-the-innovation-of-optimistic-rollups-and-fraud-proofs)
-- [Double Spending Problem But Through The Eyes of  Satoshi and Vitalik](https://emreaslan.hashnode.dev/double-spending-problem-but-through-the-eyes-of-satoshi-and-vitalik)
-- [A Deep Dive into the Digital Signatures, Encryption, and Hash Function](https://emreaslan.hashnode.dev/a-deep-dive-into-the-digital-signatures-encryption-and-hash-function)
-- [What are Rentables NFTs? Sample Smart Contract With EIP-4907](https://emreaslan.hashnode.dev/what-are-rentables-nfts-eip-4907)
-<!-- BLOG-POST-LIST:END -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/emreaslan7?theme=dark&font=Cute%20Font&ext=heatmap)
+
 
