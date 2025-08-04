@@ -8,10 +8,12 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](www.emreaslan.dev)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/emreaslan7)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/blockenddev)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://emreaslan.hashnode.dev/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/profile/emreaslan7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emreaslan7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emreaslan.eth@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://emreaslan.hashnode.dev/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/blockenddev)
+
 
 ## 💻 Tech Stack:
 
@@ -38,9 +40,5 @@
 
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emreaslan7&theme=dark) <a href="https://gitroll.io/profile/u54IZd29QtIcKQ0Wygv5wJLRzEu22" target="_blank"><img height='200px'  src="https://gitroll.io/api/badges/profiles/v1/u54IZd29QtIcKQ0Wygv5wJLRzEu22" alt="GitRoll Profile Badge"/></a>
-
-## 🧑‍💻 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/emreaslan7?theme=dark&font=Cute%20Font&ext=heatmap)
 
 
